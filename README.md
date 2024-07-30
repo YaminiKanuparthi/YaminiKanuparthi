@@ -15,11 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Contact Me
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
+- **Email:** [your-email@example.com](mailto:yaminikanuparthi03@gmail.com)
+- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/yaminikanu16/)
 
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YaminiKanuparthi&show_icons=true&theme=radical)
 
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YaminiKanuparthi&layout=compact&theme=radical)
