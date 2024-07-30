@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Contact Me
-- **Email:** [your-email@example.com](mailto:yaminikanuparthi03@gmail.com)
-- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/yaminikanu16/)
+- **Email:** [yaminikanuparthi03@gmail.com](mailto:yaminikanuparthi03@gmail.com)
+- **LinkedIn:** [linkedin.com/in/yaminikanu16](https://www.linkedin.com/in/yaminikanu16/)
 
 
