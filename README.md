@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Contact Me
+- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
+- **GitHub:** [github.com/your-username](https://github.com/your-username)
+
+## GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
