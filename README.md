@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-## I am Yamini Haripriya Kanuparthi
 I am currently pursuing a Master's degree in Computer Science (Artificial Intelligence) at the University of Southern California, driven by relentless curiosity and a passion for innovation. My journey in AI is focused on developing solutions that make a real-world impact. I hold a Bachelor's in Computer Science (AI) from Vellore Institute of Technology, where I graduated as the University Gold Medalist (Top Honors), earning the Academic Excellence Award and serving as Program Representative for AI for four consecutive years.
 
 With over 2 years of internship experience at startups and top-tier organizations, including my current role as a Machine Learning Engineer Intern at Qualetics Data Machines, I've gained invaluable insights. I have also contributed as a Data Scientist Intern at Databeat and as a Software Engineer Intern at JPMorgan Chase and Co., a role secured through my success at JPMC's Code For Good Hackathon (top 5). My research internship at VIT AP resulted in co-authoring papers and presenting at flagship conferences, deepening my understanding and real-world application of AI.
