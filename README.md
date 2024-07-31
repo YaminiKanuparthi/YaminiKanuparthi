@@ -9,6 +9,10 @@ Beyond academia and professional experiences, I've expanded my skill set through
 
 I am currently exploring the exciting domain of Large Language Models (LLMs). If you would like to collaborate on a project, please reach out!
 
+- 📫 How to reach me: ...
+- **Email:** [yaminikanuparthi03@gmail.com](mailto:yaminikanuparthi03@gmail.com)
+- **LinkedIn:** [linkedin.com/in/yaminikanu16](https://www.linkedin.com/in/yaminikanu16/)
+
 <!--
 **YaminiKanuparthi/YaminiKanuparthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,12 +23,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ....
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 ## Contact Me
-- **Email:** [yaminikanuparthi03@gmail.com](mailto:yaminikanuparthi03@gmail.com)
-- **LinkedIn:** [linkedin.com/in/yaminikanu16](https://www.linkedin.com/in/yaminikanu16/)
 
 
