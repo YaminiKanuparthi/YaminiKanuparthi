@@ -5,11 +5,9 @@ I am currently pursuing a Master's degree in Computer Science (Artificial Intell
 
 With over 2 years of internship experience at startups and top-tier organizations, including my current role as a Machine Learning Engineer Intern at Qualetics Data Machines, I've gained invaluable insights. I have also contributed as a Data Scientist Intern at Databeat and as a Software Engineer Intern at JPMorgan Chase and Co., a role secured through my success at JPMC's Code For Good Hackathon (top 5). My research internship at VIT AP resulted in co-authoring papers and presenting at flagship conferences, deepening my understanding and real-world application of AI.
 
-Beyond academia and professional experiences, I've expanded my skill set through hackathons, winning the TechEden National Hackathon and finishing as runner-up in the AIESEC AI Business Hackathon. My leadership skills were honed through roles such as President of the Indian Classical Music Club, Vice President of Sanskriti Club, and Technical Assistant and SpokesPerson for the Artificial Intelligence and Robotics Club.
+Beyond academia and professional experiences, I've expanded my skill set through hackathons, winning the TechEden National Hackathon and finishing as runner-up in the AIESEC AI Business Hackathon. My leadership skills were honed through roles such as President of the Indian Classical Music Club, Vice President of Sanskriti Club, and Technical Assistant and Spokesperson for the Artificial Intelligence and Robotics Club.
 
-I am currently exploring the exciting domain of Large Language Models (LLMs). With graduation in May 2025, I am actively seeking Spring Co-op 2025 and full-time opportunities in Machine Learning Engineering, Data Science, and Software Engineering roles. I am committed to bringing diverse perspectives and experiences to enhance collective capabilities.
-
-If you have any connections or references for such positions, please reach out—I would greatly appreciate your support. If you're looking for a dedicated professional ready to make a real-world impact, let’s connect!
+I am currently exploring the exciting domain of Large Language Models (LLMs). If you would like to collaborate on a project, please reach out!
 
 <!--
 **YaminiKanuparthi/YaminiKanuparthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
